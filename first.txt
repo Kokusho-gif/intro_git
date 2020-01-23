@@ -1,3 +1,4 @@
-Git‚Ì—ûK‚¾‚Æ‚¤
+Gitï¿½Ì—ï¿½ï¿½Kï¿½ï¿½ï¿½Æ‚ï¿½
 
 git add
+git sample1
